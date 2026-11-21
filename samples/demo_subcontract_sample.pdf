@@ -1,0 +1,62 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 465 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td
+16 TL
+(DEMO DATA - SYNTHETIC SUBCONTRACT SAMPLE \(NOT A REAL CONTRACT\)) Tj
+T* (Project: Demo Commercial Fit-Out \(Synthetic Fixture\)) Tj
+T* (Clause 1.1 Scope of Works: Subcontractor shall supply and install chilled water) Tj
+T* (piping and ductwork shown on Drawings M-101 to M-104.) Tj
+T* (Clause 4.2 Site Instructions: Verbal instructions on site must be confirmed in) Tj
+T* (writing by the Project Manager within 5 business days.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 425 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td
+16 TL
+(DEMO DATA - SYNTHETIC SUBCONTRACT SAMPLE \(PAGE 2\)) Tj
+T* (Clause 8.1 Variations: Works outside the original Scope shall be valued using) Tj
+T* (Bill of Quantities rates where applicable, or fair valuation if none exist.) Tj
+T* (Clause 8.3 Notice Requirement: Subcontractor shall notify the Main Contractor) Tj
+T* (within 7 days of receiving any instruction suspected to be a Variation.) Tj
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+0000000832 00000 n 
+0000000958 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1433
+%%EOF
